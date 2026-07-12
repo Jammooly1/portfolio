@@ -1,240 +1,282 @@
 {
+  "fullname": "Jamal Dabas",
   "contact": {
     "email": "dabasjamal@gmail.com",
     "linkedIn": "jdabas",
     "github": "Jammooly1",
-    "location": "Texas, USA"
+    "location": "USA"
   },
   "skills": [
     {
       "title": "General",
       "type": "tag",
       "subskills": [
-        {
-          "name": "Application Development"
-        },
-        {
-          "name": "Web App Development"
-        },
-        {
-          "name": "Backend Development"
-        },
-        {
-          "name": "Full-Stack Development"
-        },
-        {
-          "name": "Scripting and Bots"
-        },
-        {
-          "name": "UI"
-        }
+        { "name": "Application Development" },
+        { "name": "Web Development" },
+        { "name": "Backend Development" },
+        { "name": "Full-Stack Development" },
+        { "name": "Scripting and Bots" },
+        { "name": "UI" }
       ]
     },
     {
       "title": "Languages",
       "type": "tag",
       "subskills": [
-        {
-          "name": "Java"
-        },
-        {
-          "name": "C#"
-        },
-        {
-          "name": "Python"
-        },
-        {
-          "name": "C"
-        },
-        {
-          "name": "C++"
-        },
-        {
-          "name": "NodeJS"
-        },
-        {
-          "name": "ReactJS"
-        },
-        {
-          "name": "VueJS"
-        },
-        {
-          "name": "SFDC Apex"
-        }
+        { "name": "Java" },
+        { "name": "C#" },
+        { "name": "Python" },
+        { "name": "C" },
+        { "name": "C++" },
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "Node.js" },
+        { "name": "React" },
+        { "name": "Vue" },
+        { "name": "Angular" },
+        { "name": "SFDC Apex" },
+        { "name": "Go" }
       ]
     },
     {
       "title": "Frameworks",
       "type": "tag",
       "subskills": [
-        {
-          "name": "Spring Boot"
-        },
-        {
-          "name": "Java Maven"
-        },
-        {
-          "name": "Java Gradle"
-        },
-        {
-          "name": "Java JBoss"
-        },
-        {
-          "name": "ASP.NET Framework"
-        },
-        {
-          "name": "ASP.NET Core"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Node"
-        },
-        {
-          "name": "Python Flask"
-        }
+        { "name": "Spring Boot" },
+        { "name": "Java Maven" },
+        { "name": "Java Gradle" },
+        { "name": "Java JBoss" },
+        { "name": ".NET Framework" },
+        { "name": ".NET Core" },
+        { "name": "Gatsby" },
+        { "name": "Node" },
+        { "name": "Python Flask" },
+        { "name": "Ionic" }
       ]
     },
     {
       "title": "Project Development and Tools",
       "type": "tag",
       "subskills": [
-        {
-          "name": "Docker"
-        },
-        {
-          "name": "Kubernetes"
-        },
-        {
-          "name": "Salesforce"
-        },
-        {
-          "name": "Postman"
-        },
-        {
-          "name": "Git"
-        },
-        {
-          "name": "IntelliJ"
-        },
-        {
-          "name": "JetBrains Rider"
-        },
-        {
-          "name": "Visual Studio Code"
-        },
-        {
-          "name": "Visual Studio IDE"
-        },
-        {
-          "name": "Agile Scrum"
-        },
-        {
-          "name": "RESTful Services"
-        },
-        {
-          "name": "AWS"
-        }
+        { "name": "Docker" },
+        { "name": "Kubernetes" },
+        { "name": "Salesforce" },
+        { "name": "Postman" },
+        { "name": "Git" },
+        { "name": "GitLab" },
+        { "name": "Azure DevOps" },
+        { "name": "IntelliJ" },
+        { "name": "JetBrains Rider" },
+        { "name": "Visual Studio Code" },
+        { "name": "Visual Studio IDE" },
+        { "name": "Agile Scrum" },
+        { "name": "Azure" },
+        { "name": "RESTful Services" },
+        { "name": "RESTful APIs" },
+        { "name": "GraphQL" },
+        { "name": "Django" },
+        { "name": "GCP" },
+        { "name": "CI/CD" },
+        { "name": "Microsoft Office 365" }
       ]
     },
     {
       "title": "Databases",
       "type": "tag",
       "subskills": [
-        {
-          "name": "MySQL"
-        },
-        {
-          "name": "JDBC"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Salesforce"
-        },
-        {
-          "name": "H2"
-        }
+        { "name": "MySQL" },
+        { "name": "PostgreSQL" },
+        { "name": "JDBC" },
+        { "name": "Salesforce" },
+        { "name": "H2" },
+        { "name": "Kusto" },
+        { "name": "Azure Cosmos DB" },
+        { "name": "Azure Data Explorer" }
       ]
     },
     {
       "title": "Other",
       "type": "tag",
       "subskills": [
-        {
-          "name": "English"
-        },
-        {
-          "name": "Arabic"
-        },
-        {
-          "name": "Communication"
-        },
-        {
-          "name": "Leadership"
-        },
-        {
-          "name": "Teamwork"
-        },
-        {
-          "name": "Problem Solving"
-        },
-        {
-          "name": "Time Management"
-        },
-        {
-          "name": "Project Management"
-        }
+        { "name": "English" },
+        { "name": "Arabic" },
+        { "name": "Communication" },
+        { "name": "Leadership" },
+        { "name": "Teamwork" },
+        { "name": "Problem Solving" },
+        { "name": "Time Management" },
+        { "name": "Project Management" }
       ]
     }
   ],
-  "summary": "I'm an ambitious and young computer scientist with a love and passion for software engineering. I enjoy developing software of many types ranging from web apps and APIs to desktop apps and bots. I've been in the industry for over a year now and I'm desiring greater goals to reach and overcome. I am constantly open to new opportunities and networks.",
+  "summary": "I'm an ambitious software engineer who enjoys developing software of many types ranging from web apps and APIs to desktop apps and bots. I've been in the industry for many years now and I'm always desiring greater goals to reach and overcome. I am constantly open to new opportunities and networks.",
   "education": [
     {
       "institution": "University of Texas at San Antonio",
       "degree": "Bachelor's of Science in Computer Science",
       "start": "2017",
       "end": "2020",
-      "gpa": "3.97/4.00"
+      "gpa": "3.97/4.00",
+      "honors": "Summa Cum Laude"
     }
   ],
   "experience": [
     {
       "role": "Software Engineer",
       "company": "Microsoft",
-      "description": [],
-      "start": "03/2020",
-      "end": ""
+      "description": [
+        "Full Stack Engineer at the Capacity, Supply Chain & Provisioning Org responsible for enabling and establishing the infrastructure necessary to support Azure services globally.",
+        "Developed and implemented software protocols and features that reduced equipment setup times by 80% and boosted delivery efficiency by minimizing rework of docked equipment.",
+        "Developed a feature to alert datacenter admins of potential premature ticket closures, reducing early closures by 95% and ensuring delivery timelines.",
+        "Migrated and redesigned critical worker services in .NET Core, resolving operational and supply chain challenges.",
+        "Heavily contributed to a microservices architecture with over 30 services, driving improvements in interoperability and optimizing supply chain operations.",
+        "Led migration efforts using PySpark to improve data flow and processing.",
+        "Managed on-call incidents to ensure seamless, uninterrupted equipment delivery and installation.",
+        "Primary Technologies: .NET Ecosystem, C#, RESTful APIs, Angular, TypeScript, PySpark, Python, PowerShell, Kusto, and various Azure technologies."
+      ],
+      "start": "03/2022",
+      "end": "01/2025"
     },
     {
       "role": "Software Engineer III",
       "company": "USAA",
-      "description": ["Full-Stack Engineer on two large messaging platforms that provides hundreds of thousands of members with communication to member service representatives (MSRs).", "Created a major RESTful API using Java Springboot, Gradle, and Docker to update the React UI with crucial MSR information whenever a P2P chat is initiated.", "Discovered and fixed a large archival issue in production that prevented tens of thousands of completed member cases from archiving using SFDC Apex and Python3.", "Solved a major security vulnerability where members' passwords would appear in the URL of a chat with an MSR using SFDC Apex.", "Consistently develop and maintain old and new features of Chat and SMM in Salesforce, React, and Java.", "Created documentation for developers on using REST APIs, certain Salesforce Tools, and debugging issues related to business logic.", "Primary technologies involved are Springboot, Salesforce, JavaEE, Gradle, Gitlab, Docker, Kubernetes, and ReactJS."],
+      "description": [
+        "Full Stack Engineer on two large messaging platforms that provide millions of members with communication to member service representatives (MSRs).",
+        "Built a major RESTful API using Java Spring Boot, Gradle, and Docker to update React UI with key MSR details during P2P chats.",
+        "Resolved a critical archival issue in production affecting 80% of member cases using SFDC Apex and Python3.",
+        "Fixed a major security vulnerability exposing 20% of member passwords in chat URLs using SFDC Apex.",
+        "Developed and maintained Chat and SMM features in Salesforce, React, and Java.",
+        "Documented REST API usage, Salesforce tools, and business logic debugging for developers.",
+        "Primary Technologies: Spring Boot, Salesforce, Java, Gradle, GitLab, Docker, Kubernetes, ReactJS, Java Spring."
+      ],
       "start": "09/2020",
       "end": "02/2022"
     },
     {
-      "role": "Applicaton Developer Intern",
+      "role": "Co-Founder",
+      "company": "Refinder",
+      "description": [
+        "Placed among the top 5 in the UTSA CITE start-up competition.",
+        "Created an online marketplace for the exchange of repurposed and salvaged goods.",
+        "Used ReactJS and Redux for the frontend and Google Firebase for the backend."
+      ],
+      "start": "01/2020",
+      "end": "05/2020"
+    },
+    {
+      "role": "Application Developer Intern",
       "company": "Optum/Wellmed",
-      "description": ["Developed a web app with admin controls that displays current WellMed intranet websites information and details using .NET Framework and .NET Core.","Improved loading time of existing web apps from 30 seconds to 1 second.","Performed code review, analysis, and documentation for existing projects."],
+      "description": [
+        "Developed a web app with admin controls that displays current WellMed intranet websites information and details using .NET Framework and .NET Core.",
+        "Improved loading time of existing web apps from 30 seconds to 1 second.",
+        "Performed code review, analysis, and documentation for existing projects."
+      ],
       "start": "06/2019",
       "end": "08/2019"
     },
     {
       "role": "Cyber Security Intern",
       "company": "UDP, Inc",
-      "description": ["Microsoft Security Event Research.", "Microsoft Security Analysis.", "Microsoft Security Auditing and Log Shipping."],
+      "description": [
+        "Microsoft Security Event Research.",
+        "Microsoft Security Analysis.",
+        "Microsoft Security Auditing and Log Shipping."
+      ],
       "start": "03/2017",
       "end": "05/2017"
     },
     {
-      "role": "Summer Office Assistant",
+      "role": "Office Assistant",
       "company": "Dabas Cancer Institute",
-      "description": ["Managed a medical database","Maintained patient medical records","Performed various office duties."],
+      "description": [
+        "Managed a medical database.",
+        "Maintained patient medical records.",
+        "Performed various office duties."
+      ],
       "start": "06/2012",
       "end": "06/2014"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Islamify",
+      "company": "Personal Project",
+      "description": [
+        "A web app that displays the Holy Quran's verses in an orderly format and contains over 70 English translations.",
+        "Technologies used: Ionic-Vue, Supabase, SQL, and Vercel."
+      ],
+      "link": "https://islamify.app/"
+    },
+    {
+      "name": "Music Playlists Web App",
+      "company": "Personal Project",
+      "description": [
+        "A music playlist web app with login, signup, and logout functionality.",
+        "Users can create, delete, and update playlists and songs, and view other users' playlists."
+      ],
+      "link": "https://muso-ninjas-558e7.web.app/"
+    },
+    {
+      "name": "Vue Live-Chat Server",
+      "company": "Personal Project",
+      "description": [
+        "A live chat web app with login, signup, and logout functionality.",
+        "Once logged in, users are directed to a live chat where they can talk with others who are currently online."
+      ],
+      "link": "https://udemy-vue-firebase-sites-a62b5.web.app/chatroom"
+    },
+    {
+      "name": "Armchair Athletes Website",
+      "company": "Armchair Athletes",
+      "description": [
+        "Created the website for Armchair Athletes, an organization co-founded with two others.",
+        "Used GatsbyJS, ReactJS, and SASS/SCSS."
+      ],
+      "link": "https://arm-chair-athletes.web.app/"
+    },
+    {
+      "name": "Covid19 Tracker",
+      "company": "Personal",
+      "description": [
+        "A COVID-19 tracker that shows the number of confirmed cases, recoveries, and deaths globally and per country.",
+        "Built with ReactJS on the frontend, Firebase on the backend, and an external API for data."
+      ],
+      "link": "https://covid-19-tracker-6f718.web.app/"
+    },
+    {
+      "name": "Supreme/Sneaker Bot",
+      "company": "Personal",
+      "description": [
+        "Using Selenium and C#, developed a browser automation bot that can navigate to a specified website and complete the checkout flow for a selected product."
+      ],
+      "link": ""
+    },
+    {
+      "name": "Environment Manager Web App",
+      "company": "Optum/Wellmed",
+      "description": [
+        "Created a business-side web app with admin controls that displays current WellMed intranet sites and details.",
+        "Loaded data dynamically from APIs and other sources and allowed it to be modified manually."
+      ],
+      "link": ""
+    },
+    {
+      "name": "YouChoose",
+      "company": "Rowdy Hacks Hackathon",
+      "description": [
+        "A hackathon project that randomly selects a food category based on the ZIP code entered and uses the Google Places API to pull nearby restaurants.",
+        "Built with Java and JavaFX."
+      ],
+      "link": "https://devpost.com/software/youchoose-nm3wkd"
+    },
+    {
+      "name": "Memory Vision",
+      "company": "UTSA Application Programming Course Project",
+      "description": [
+        "Created a C memory generator with JavaFX and SceneBuilder.",
+        "Represented complex low-level programming concepts through simple, easy-to-understand animations."
+      ],
+      "link": ""
     }
   ],
   "social": [
@@ -247,76 +289,5 @@
       "url": "https://github.com/Jammooly1"
     }
   ],
-  "role": "Software Engineer",
-  "projects": [
-    {
-      "name": "Music Playlists Web App",
-      "company": "Personal Project",
-      "description": ["A Music Playlist Web App with login, signup, and logout functionality. A user will be able to create, delete, and update playlists, and the songs inside their playlists. They'll also be able to view other users playlists as well.",
-                      "Technologies used: Vuejs3, JavaScript, CSS, and Firebase"],
-      "link": "https://muso-ninjas-558e7.web.app/"
-    },
-    {
-      "name": "Vue Live-Chat Server",
-      "company": "Personal Project",
-      "description": ["Live Chat Web App with login, signup, and logout functionality. Once logged in, will be directed to a live-chat where you can chat with anyone else that has been logged in.",
-                      "Technologies used: Vuejs3, JavaScript, CSS, and Firebase"],
-      "link": "https://udemy-vue-firebase-sites-a62b5.web.app/chatroom"
-    },
-    {
-      "name": "Armchair Athletes Website",
-      "company": "Armchair Athletes",
-      "description": ["I created the website for Armchair Athletes, an organization that I co-founded with 2 others.",
-                      "I used GatsbyJS, ReactJS, and SASS/SCSS",
-                      "Organization Description: \"We are three good friends that want to share our love of our favorite sports and strong opinions of it to one another and to an audience. We will upload audio/video podcasts weekly discussing current events and popular topics in today's basketball and other sports and update our social media accounts with the latest news in sports as well.\""],
-      "link": "https://arm-chair-athletes.web.app/"
-    },
-    {
-      "name": "Covid19 Tracker",
-      "company": "Personal",
-      "description": ["Covid19 Tracker that shows the number of confirmed cases, recoveries, and deaths globally and per country.",
-                      "Technologies used involve ReactJS as the frontend, Firebase as the backend, and uses an API to fetch data.",
-                      "API: https://covid19.mathdro.id/api"],
-      "link": "https://covid-19-tracker-6f718.web.app/"
-    },
-    {
-      "name": "Refinder",
-      "company": "UTSA CITE COMPETITION",
-      "description": ["Placed among the top 5 in the UTSA CITE start-up Competition.",
-                      "Created an online marketplace, refinder.app, for the material exchange of repurposed and salvaged goods.",
-                    "ReactJS and Redux are used for the frontend and Google Firebase for the backend."],
-      "link": "https://refinder.app/"
-    },
-    {
-      "name": "Supreme/Sneaker Bot",
-      "company": "Personal",
-      "description": ["Using Selenium and C#, I'm developing a browser automation bot that is able to go to a website I specify and fully select and buy a specific product."],
-      "link": ""
-    },
-    {
-      "name": "Environment Manager Web App",
-      "company": "Optum/Wellmed",
-      "description": ["Using Visual Studio Enterprise 2017, I Created a business side web app with admin controls that displays current WellMed intranet websites information and details",
-                      "Data is dynamically loaded from APIs and other data sources and it can be modified manually.",
-                      "Framework used was ASP.NET Webforms 4.5.", 
-                      "Programming and scripting languages involved were C#, HTML/CSS, and Javascript."],
-      "link": ""
-    },
-    {
-      "name": "YouChoose",
-      "company": "Rowdy Hacks Hackathon",
-      "description": ["This program randomly selects a food category based on the zip code entered. The food category and zip code are then used to pull restaurants near you using Google's API/Google's Cloud Platform.",
-                      "We used Java and JavaFX and Google API's - geocode and places - to give us a list of updated restaurant information. There is a blinking mechanism that alerts and helps the user to notify which food category was randomly selected by the application. We use the zip code to find the latitude and longitude associated with it (geocode API). Then we used latitude and longitude to find nearby restaurants according to your Randomly generated food category (places API)."
-                    ],
-      "link": "https://devpost.com/software/youchoose-nm3wkd"
-    },
-    {
-      "name": "Memory Vision",
-      "company": "UTSA Application Programming Course Project",
-      "description": ["Created a C memory generator using JavaFX and SceneBuilder.",
-                      "Represented complex low-level programming concepts using simple, easy-to-understand animations."],
-      "link": ""
-    }
-  ],
-  "fullname": "Jamal Dabas"
+  "role": "Software Engineer"
 }
