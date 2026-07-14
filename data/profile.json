@@ -122,6 +122,22 @@
   ],
   "experience": [
     {
+      "role": "Software Engineer II",
+      "company": "Wealth.com",
+      "description": [
+        "Designed and built a payments management system processing over $1 million in monthly transaction volume for notary and deed services.",
+        "Led the overhaul of the document management platform used by all advisors and clients, adding a new interface, AI-assisted document detection, and custom tagging.",
+        "Developed transactional and campaign emails in Customer.io, increasing document completion and customer retention by over 30%.",
+        "Designed idempotent order workflows that prevent duplicate charges and lost documents from third-party retries.",
+        "Built serverless workflows for legal-document preparation, notarization, billing, and delivery.",
+        "Investigated and resolved production incidents using Datadog alerts, logs, and metrics.",
+        "Expanded unit, integration, and Playwright visual regression test coverage.",
+        "Primary Technologies: Typescript, React, Node.js, GraphQL, Liquid, AWS Lambda, DynamoDB, Step Functions, C#/.NET, Datadog, Playwright, Claude, Cursor, and MCPs."
+      ],
+      "start": "07/2025",
+      "end": ""
+    },
+    {
       "role": "Software Engineer",
       "company": "Microsoft",
       "description": [
